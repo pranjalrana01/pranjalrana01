@@ -8,7 +8,7 @@
   
 - 📫 How to reach me **pranjalrana474@gmail.com**
 
-- ⚡ Fun fact **While I'm passionate about crafting digital experiences through web development, I love diving into virtual worlds to unwind and sharpen my strategic thinking.**
+- ⚡ Fun fact **While I'm passionate about crafting digital experiences through web development and machine learning models, I love diving into virtual worlds to unwind and sharpen my strategic thinking by working with different Machine learning models.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

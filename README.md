@@ -4,6 +4,8 @@
 
 - 💬 Ask me about **C++**
 
+- 💬 Ask me about **Machine Learning**
+  
 - 📫 How to reach me **pranjalrana474@gmail.com**
 
 - ⚡ Fun fact **While I'm passionate about crafting digital experiences through web development, I love diving into virtual worlds to unwind and sharpen my strategic thinking.**

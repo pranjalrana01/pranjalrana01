@@ -72,9 +72,6 @@
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
   </a>
-  <a href="https://materializecss.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/materialize.svg" alt="materialize" width="40" height="40"/>
-  </a>
 
   <!-- Others -->
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">

@@ -1,4 +1,4 @@
-<h3 align="center">Hi 👋, I’m Pranjal, a developer with a strong interest in data science and machine learning. I enjoy working with data, building ML models, and extracting meaningful insights using Python.</h3>
+<h3 align="center">Hi 👋, I’m Pranjal, a developer with a strong interest in data science and machine learning.</h3>
 <h3 align="center">Aspiring Data Scientist | Python | Machine Learning | SQL</h3>
 <img align="right" alt="Coding Animation" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 

@@ -10,7 +10,6 @@
 - ⚡ Fun fact **I enjoy experimenting with machine learning models and discovering patterns in real-world data.**
 
 <h3 align="left">Connect with me:</h3>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Fixing+bugs+😅+;Working+on+various+side+projects;Lets+catch+up,+connect+with++me;on+Linkedin😄)](https://git.io/typing-svg)
 <p align="left">
 <a href="https://www.linkedin.com/in/pranjal-rana-891b1a211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pranjal-rana-891b1a211" height="30" width="40" /></a>
 </p>

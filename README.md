@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pranjal</h1>
+<h1 align="center">Hi 👋, I’m Pranjal, a developer with a strong interest in data science and machine learning. I enjoy working with data, building ML models, and extracting meaningful insights using Python.</h1>
 <h3 align="center">Aspiring Data Scientist | Python | Machine Learning | SQL</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
@@ -85,7 +85,3 @@
   </a>
 
 </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranjalrana01&show_icons=true&locale=en&layout=compact" alt="pranjalrana01" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pranjalrana01&" alt="pranjalrana01" /></p>

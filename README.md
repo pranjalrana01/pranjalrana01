@@ -1,8 +1,8 @@
 <h3 align="center">Hi 👋, I’m Pranjal, a developer with a strong interest in data science and machine learning. I enjoy working with data, building ML models, and extracting meaningful insights using Python.</h3>
 <h3 align="center">Aspiring Data Scientist | Python | Machine Learning | SQL</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+<img align="right" alt="Coding Animation" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
-- 💬Ask me about **Python** & **SQL**
+- 💬 Ask me about **Python** & **SQL**
 - 💬 Ask me about **Machine Learning** & **Data Analysis**
   
 - 📫 How to reach me **pranjalrana474@gmail.com**
@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/pranjal-rana-891b1a211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pranjal-rana-891b1a211" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/pranjal-rana-891b1a211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pranjal-rana-891b1a211" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
